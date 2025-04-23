@@ -1,4 +1,4 @@
-# Hotel Management System
+# Hotel Management System (Completion date: 12/2023)
 
 This is a Java-based hotel management system developed as part of a course project to explore the architecture and implementation of distributed systems using the client-server model.
 
